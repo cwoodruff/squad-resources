@@ -1,3 +1,3 @@
 # Squad Resources
 
-[Squad Home Page]([https://bradygaster.github.io/squad/])
+[Squad Home Page](https://bradygaster.github.io/squad/)
